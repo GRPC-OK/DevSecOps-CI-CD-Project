@@ -38,6 +38,4 @@ npm start
 
 MIT
 
-## 악마의 소행ㅁsdasㅇㅁsdas
-testasdasdaS
-여러분의 커밋을 망치러 왔다!#@QEWdsaㅇㅂㅈd
+여전히 불편함

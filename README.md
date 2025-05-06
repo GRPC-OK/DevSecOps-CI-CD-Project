@@ -38,6 +38,6 @@ npm start
 
 MIT
 
-## 악마의 소행ㅁsdasㅇㅁsdas
-testasdasdaS
-여러분의 커밋을 망치러 왔다!#@QEWdsaㅇㅂㅈd
+### 팀원 소개
+
+안녕하세요 저는 컴퓨터공학과 서혜원입니다.

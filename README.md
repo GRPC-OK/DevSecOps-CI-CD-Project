@@ -3,9 +3,6 @@ This code repository (or "repo") is designed to demonstrate the best GitHub has 
 
 The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
 
-<<<<<<< HEAD
-"민선재 푸쉬합니다.22"
-=======
 ## 프로젝트 구조
 
 ```
@@ -42,15 +39,15 @@ npm start
 
 MIT
 
-<<<<<<< HEAD
 안녕하세요 그냥 이명일입니다.
-=======
+
 ## 안녕하세요
 
 잘부탁드립니다.
 
 asdasdadsd
-=======
+
 ## 한화우승
->>>>>>> 64f3931 (한화우승)
->>>>>>> b63d188605180823b9ab0e0399c09eb5e6007621
+
+
+하하 민선재입니다.

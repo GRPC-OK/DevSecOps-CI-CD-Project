@@ -3,4 +3,54 @@ This code repository (or "repo") is designed to demonstrate the best GitHub has 
 
 The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
 
+<<<<<<< HEAD
 "민선재 푸쉬합니다.22"
+=======
+## 프로젝트 구조
+
+```
+├── app/                # App Router 기반 페이지 및 컴포넌트
+├── public/            # 정적 파일 (이미지, 폰트 등)
+├── styles/            # CSS 스타일시트
+└── components/        # 재사용 가능한 컴포넌트
+```
+
+## 시작하기
+
+```bash
+# 의존성 설치
+npm install
+
+# 개발 서버 실행
+npm run dev
+
+# 프로덕션 빌드
+npm run build
+
+# 프로덕션 서버 실행
+npm start
+```
+
+## 기술 스택
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+## 라이선스
+
+MIT
+
+<<<<<<< HEAD
+안녕하세요 그냥 이명일입니다.
+=======
+## 안녕하세요
+
+잘부탁드립니다.
+
+asdasdadsd
+=======
+## 한화우승
+>>>>>>> 64f3931 (한화우승)
+>>>>>>> b63d188605180823b9ab0e0399c09eb5e6007621

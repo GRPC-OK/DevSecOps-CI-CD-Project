@@ -3,6 +3,7 @@ This code repository (or "repo") is designed to demonstrate the best GitHub has 
 
 The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ## 프로젝트 구조
 
@@ -55,3 +56,6 @@ asdasdadsd
 =======
 "민선재 푸쉬합니다.22"
 >>>>>>> f0aebe4 (커밋 TEST1)
+=======
+"민선재 푸쉬합니다.22333"
+>>>>>>> d0e1cde (커밋 TEST2)

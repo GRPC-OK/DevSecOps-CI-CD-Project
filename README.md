@@ -1,6 +1,7 @@
-# Next.js 프로젝트
+# Welcome to your organization's demo respository
+This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
 
-이 저장소는 Next.js를 사용한 웹 애플리케이션 프로젝트입니다.
+The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
 
 ## 프로젝트 구조
 
@@ -39,5 +40,4 @@ npm start
 MIT
 
 ## 팀원 소개
-김완기:
-안녕하세요 김완기입니다. 
+민선재입니다.

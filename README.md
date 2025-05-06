@@ -2,6 +2,7 @@
 This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
 
 The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+<<<<<<< HEAD
 
 ## 프로젝트 구조
 
@@ -51,3 +52,6 @@ asdasdadsd
 
 하하 민선재입니다.
 
+=======
+"민선재 푸쉬합니다.22"
+>>>>>>> f0aebe4 (커밋 TEST1)

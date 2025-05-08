@@ -1,47 +1,37 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+## Getting Started
 
-## 프로젝트 구조
-
-```
-├── app/                # App Router 기반 페이지 및 컴포넌트
-├── public/            # 정적 파일 (이미지, 폰트 등)
-├── styles/            # CSS 스타일시트
-└── components/        # 재사용 가능한 컴포넌트
-```
-
-## 시작하기
+First, run the development server:
 
 ```bash
-# 의존성 설치
-npm install
-
-# 개발 서버 실행
 npm run dev
-
-# 프로덕션 빌드
-npm run build
-
-# 프로덕션 서버 실행
-npm start
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
 ```
 
-## 기술 스택
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-## 라이선스
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-MIT
+## Learn More
 
-## 악마의 소행
-test
-여러분의 커밋을 망치러 왔다!
+To learn more about Next.js, take a look at the following resources:
 
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-안녕하세요 저의 이름은 김선우입니다 rebase test입니다.
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+>>>>>>> 60e13c2 (Initial commit from Create Next App)
